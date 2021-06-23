@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278626106279",
+    "firebase_url": "https://trivialim-46ccf.firebaseio.com",
+    "project_id": "trivialim-46ccf",
+    "storage_bucket": "trivialim-46ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278626106279:android:a9435281d26ce0fee3d482",
+        "android_client_info": {
+          "package_name": "com.example.sylla.trivialim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278626106279-2ae4af8bknt8m2ri3n2di9en8nq4aujm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4um4FqHdnQeTevQqrrEXkmwWyQXs7vVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278626106279-2ae4af8bknt8m2ri3n2di9en8nq4aujm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

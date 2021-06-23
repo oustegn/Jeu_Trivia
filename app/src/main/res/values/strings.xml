@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriviaLIm</string>
+    <string name="modeJeu">Mode de jeu :</string>
+    <string name="classique">Classique</string>
+    <string name="defi">Défi</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="difficulté">Difficulté</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Normale</string>
+    <string name="hard">Difficile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
